@@ -16,7 +16,7 @@ var maxBubbles = 20;
 
 function preload() {
 	//drone = loadSound('http://raw.githubusercontent.com/alexheselton/bubbles_p5/blob/master/assets/DRONEINCHESSISB.mp3');
-	drone = loadSound('http://raw.githubusercontent.com/alexheselton/bubbles_p5/assets/DRONEINCHESSISB.mp3');
+	drone = loadSound('https://raw.githubusercontent.com/alexheselton/bubbles_p5/assets/DRONEINCHESSISB.mp3');
 }
 
 function setup() {
