@@ -15,9 +15,9 @@ var drone;
 var maxBubbles = 20;
 
 function preload() {
-	//drone = loadSound('https://raw.githubusercontent.com/alexheselton/bubbles_p5/blob/master/assets/DRONEINCHESSISB.mp3');
+	///drone = loadSound('https://raw.githubusercontent.com/alexheselton/bubbles_p5/blob/master/assets/DRONEINCHESSISB.mp3');
 	//drone = loadSound('https://raw.githubusercontent.com/alexheselton/bubbles_p5/assets/DRONEINCHESSISB.mp3');
-	drone = loadSound('https://rawgit.com/AlexHeselton/bubbles_p5/master/assets/DRONEINCHESSISB.mp3');
+	drone = loadSound('https://cdn.rawgit.com/AlexHeselton/bubbles_p5/4e130617/assets/DRONEINCHESSISB.mp3');
 }
 
 function setup() {
